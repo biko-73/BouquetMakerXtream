@@ -3,28 +3,51 @@ A plugin to allow the easy creation of bouquets for IPTV playlists.  Based on my
 
 How to use BouquetMakerXtream (BMX)
 Main Menu - No providers
+
  <img src="https://i.ibb.co/XWB2tBN/1.png" alt="1" border="0">
+ 
 Main Settings
+
 <img src="https://i.ibb.co/GPbwfyr/2.png" alt="2" border="0">
+
 Add Playlist
+
 <img src="https://i.ibb.co/Dk9H52c/3.png" alt="3" border="0">
+
 Main Menu - provider added
+
 <img src="https://i.ibb.co/yBzr1yy/4.png" alt="4" border="0">
+
 Playlists
+
 <img src="https://i.ibb.co/CbnNW49/5.png" alt="5" border="0">
+
 Xstream/XUI ONE Playlists - Info Screen
+
 <img src="https://i.ibb.co/wcnZSgx/6.png" alt="6" border="0">
+
 Bouquet Settings
+
 <img src="https://i.ibb.co/myfFS6j/7.png" alt="7" border="0">
+
 Category and Channel Selection
+
 <img src="https://i.ibb.co/jZdNGDp/8.png" alt="8" border="0">
+
 Main Menu - After bouquets have been created
+
 <img src="https://i.ibb.co/86p0pdq/9.png" alt="9" border="0">
+
 Main settings - Catchup options. Needs turning on.
+
 <img src="https://i.ibb.co/mhS9dQ6/10.png" alt="10" border="0">
+
 Channel Select screen for catchup - Most images its down keypad button.
+
 <img src="https://i.ibb.co/2SXCdyH/11.png" alt="11" border="0">
+
 Catchup List - Triggered by Stop, List, PVR, Video, File or FAV buttons
+
 <img src="https://i.ibb.co/34nPhTK/12.png" alt="12" border="0">
  
 BouquetMakerXtream has no playlists in it.
@@ -97,7 +120,9 @@ EPG Importer
 
 Once you have created your bouquets. There will be a folder in EPG Importer sources.
 You need to tick the checkbox to add it to EPG importers schedule.
+
 <img src="https://i.ibb.co/3TGXYWb/image.png" alt="image" border="0">
+
 You can wait for EPG importer automatic update, or you can do a manual update of selected sources if you wish to see EPG straight away.
 
 My plugin is designed to work only with the original EPG Importer plugin. Not mods of it, or crossepg.
@@ -119,14 +144,6 @@ To view catchup channels.
 •	Your programme will play in movie player. - You might need to edit movie player plugin settings to allow the exit key to exit the player.
 
 Picon Downloader
-
-
-
-
-
-
-
-
 
 
 FREQUENTLY ASKED QUESTIONS
