@@ -10,7 +10,7 @@
 # Plugin	... Enter Manually
 ########################################################################################################################
 
-PACKAGE_DIR='Bouquet Maker Xtream/main'
+PACKAGE_DIR='BouquetMakerXtream'
 
 MY_IPK="enigma2-plugin-extensions-bouquetmakerxtream_1.10_all.ipk"
 MY_DEB="enigma2-plugin-extensions-bouquetmakerextream_1.10_all.deb"
