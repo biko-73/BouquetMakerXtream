@@ -59,10 +59,9 @@ if [ -f $MY_TMP_FILE ]; then
 	echo $MY_SEP
 	echo ''
 	if which dpkg > /dev/null 2>&1; then
-		dpkg -i --force-overwrite $MY_TMP_FILE
-		apt install -f -y
+		apt-get install $MY_TMP_FILE -y && apt-get install -f
 	else
-		opkg install --force-reinstall $MY_TMP_FILE
+		opkg install $MY_TMP_FILE
 	fi
 	MY_RESULT=$?
 
@@ -76,9 +75,7 @@ if [ -f $MY_TMP_FILE ]; then
 		if which systemctl > /dev/null 2>&1; then
 			sleep 2; systemctl restart enigma2
 		else
-			init 4
-			sleep 4 > /dev/null 2>&1
-			init 3
+			init 4; sleep 4; init 3;
 		fi
 	else
 		echo "   >>>>   INSTALLATION FAILED !   <<<<"
