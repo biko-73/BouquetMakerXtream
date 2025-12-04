@@ -12,8 +12,8 @@
 
 PACKAGE_DIR='BouquetMakerXtream/main'
 
-MY_IPK="enigma2-plugin-extensions-bouquetmakerxtream_1.67_all.ipk"
-MY_DEB="enigma2-plugin-extensions-bouquetmakerxtream_1.67_all.deb"
+MY_IPK="enigma2-plugin-extensions-bouquetmakerxtream_1.69_all.ipk"
+MY_DEB="enigma2-plugin-extensions-bouquetmakerxtream_1.69_all.deb"
 
 ########################################################################################################################
 # Auto ... Do not change
